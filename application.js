@@ -38,8 +38,6 @@ function calculerPrixTotal() {
 
 
 
-
-
 function hello(message) {
     alert(message);
 }
